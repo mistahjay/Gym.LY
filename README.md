@@ -13,7 +13,7 @@ I have 3 other flavors for you. Not everyone likes Orange. Since iOrange 1.0 was
 
     .header-container {background: #7DA7D9;}
     #nav {background: #6697D2;}
-    .footer-container { border-bottom : 2px solid #6697D2;}
+    .footer-container {border-bottom : 2px solid #6697D2;}
 
 ### Emerald:
 
@@ -25,7 +25,7 @@ I have 3 other flavors for you. Not everyone likes Orange. Since iOrange 1.0 was
 
     .header-container {background: #E0115F;}
     #nav { background: #B40E4D; }
-    .footer-container { border-bottom : 2px solid #B40E4D;}
+    .footer-container {border-bottom : 2px solid #B40E4D;}
 
 
 ## License
