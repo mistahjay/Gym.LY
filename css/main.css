@@ -138,7 +138,6 @@ footer .designer {
 .post-footer {
 	border-bottom : 1px solid #D7C3C3;
 	padding : 5px;
-	text-align: right;
 	margin : 5px 10px 0 2px;
 	font-size : 95%;
 	background-color : #f8f4f1;
@@ -147,7 +146,6 @@ footer .designer {
 .post-footer .date {
 	padding-left : 20px;
 	margin : 0 10px 0 5px;
-	text-align : right;
 	font-size : 9px;
 	color : #009900;
 }
@@ -155,6 +153,7 @@ footer .designer {
 .post-footer .readmore {
 	padding-left : 5px;
 	margin : 0 10px 0 5px;
+	float : right;
 }
 
 .widget {
