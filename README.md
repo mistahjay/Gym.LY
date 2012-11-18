@@ -27,7 +27,6 @@ I have 3 other flavors for you. Not everyone likes Orange. Since iOrange 1.0 was
     #nav { background: #B40E4D; }
     .footer-container { border-bottom : 2px solid #B40E4D;}
 
-Not everyone likes Orange. Since iOrange 1.0 was released in 2008, I've no idea why I chose Orange as primary color. Just make the following changes and you will love the color psychology. 
 
 ## License
 
