@@ -11,39 +11,23 @@ I have 3 other flavors for you. You will need to edit 'main.css' and make change
 
 ### Turquoise:
 
-    .header-container {
-      background: #7DA7D9;
-    }
-
-    #nav {
-      background: #6697D2;
-    }
-
-    .footer-container { 
-      border-bottom : 2px solid #6697D2;
-    }
+    .header-container {background: #7DA7D9;}
+    #nav {background: #6697D2;}
+    .footer-container { border-bottom : 2px solid #6697D2;}
 
 ### Emerald:
 
     .header-container {background: #50C878;}
-
     #nav {background: #37AE5E;}
-    
     .footer-container {border-bottom : 2px solid #37AE5E;}
 
 ### Ruby:
 
-    .header-container {
-      background: #E0115F;
-    }
+    .header-container {background: #E0115F;}
+    #nav { background: #B40E4D; }
+    .footer-container { border-bottom : 2px solid #B40E4D;}
 
-    #nav { 
-      background: #B40E4D; 
-    }
-    
-    .footer-container { 
-      border-bottom : 2px solid #B40E4D;
-    }
+Not everyone likes Orange. Just make the following changes and you will love the color psychology. 
 
 ## License
 
