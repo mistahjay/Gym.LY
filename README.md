@@ -9,6 +9,8 @@ Preview: http://design.themebin.com/iorange2
 
 I have 3 other flavors for you. Not everyone likes Orange. Since iOrange 1.0 was released in 2008, I've no idea why I chose Orange as primary color. Just make the following changes and you will love the color psychology. You will need to edit `main.css` and make change to header, nav and footer elements.
 
+Preview all flavors: http://design.themebin.com/img/iorange_flavors.jpg
+
 ### Turquoise:
 
     .header-container {background: #7DA7D9;}
