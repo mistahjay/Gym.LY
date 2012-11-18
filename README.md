@@ -5,6 +5,62 @@ iOrange 2.0 is a free, simple and light-weight web template for your website and
 
 Preview: http://design.themebin.com/iorange2
 
+##Don't like Orange?
+
+I have 3 other flavors for you. You will need to edit 'main.css' and make change to header, nav and footer elements.
+
+### Turquoise:
+
+    .header-container {
+    background: #7DA7D9;
+    }
+
+    #nav {
+    background: #6697D2;
+    }
+
+    .footer-container { 
+    border-bottom : 2px solid #6697D2;
+    }
+
+### Emerald:
+
+    .header-container {
+    background: #50C878;
+    }
+
+    #nav {
+    background: #37AE5E;
+    }
+
+### Ruby:
+
+    .header-container {
+    background: #E0115F;
+    }
+
+    #nav {
+    background: #B40E4D;
+    }
+
+    .footer-container { 
+    border-bottom : 2px solid #B40E4D;
+    }
+
+### Ruby:
+
+    .header-container {
+    background: #E0115F;
+    }
+
+    #nav {
+    background: #B40E4D;
+    }
+
+    .footer-container { 
+    border-bottom : 2px solid #B40E4D;
+    }
+
 ## License
 
 iOrange 2 is licensed under MIT.
