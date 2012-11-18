@@ -25,13 +25,11 @@ I have 3 other flavors for you. You will need to edit 'main.css' and make change
 
 ### Emerald:
 
-    .header-container {
-      background: #50C878;
-    }
+    .header-container {background: #50C878;}
 
-    #nav {
-      background: #37AE5E;
-    }
+    #nav {background: #37AE5E;}
+    
+    .footer-container {border-bottom : 2px solid #37AE5E;}
 
 ### Ruby:
 
