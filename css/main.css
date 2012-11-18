@@ -17,16 +17,6 @@ a {
 	color: #333333;
 }
 
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
 hr {
     display: block;
     height: 1px;
@@ -262,7 +252,7 @@ footer .designer {
     background-color: transparent;
     border: 0;
     overflow: hidden;
-    *text-indent: -9999px;
+    text-indent: -9999px;
 }
 
 .ir:before {
@@ -310,10 +300,6 @@ footer .designer {
 
 .clearfix:after {
     clear: both;
-}
-
-.clearfix {
-    *zoom: 1;
 }
 
 /* ==========================================================================
@@ -369,9 +355,6 @@ footer .designer {
         max-width: 100% !important;
     }
 
-    @page {
-        margin: 0.5cm;
-    }
 
     p,
     h2,
@@ -412,7 +395,6 @@ code {
 	text-align : left;
 	display : block;
 	overflow : auto;
-	font-familynav500 1em/1.5em 'Cutive Mono', serif;
 	background : #f8f4f1;
 	border : 1px dashed #D7C3C3;
 }
@@ -498,6 +480,8 @@ input.button:hover {
 	background-image : none;
 }
 
+.main aside .quote-author {text-align: right;}
+
 /* Images */
 
 img {
@@ -554,6 +538,7 @@ img.float-left {
 }
 #nav a:hover, #nav a:active {
 	color: #333;
+	/* background: #DA411B; */
 }
 #nav a#pull {
 	display: none;
