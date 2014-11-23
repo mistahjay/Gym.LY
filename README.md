@@ -3,13 +3,9 @@ iOrange 2.0
 
 iOrange 2.0 is a free, simple and light-weight web template for your website and is valid HTML5 & CSS3 (W3C Compliant) document. This template is built on HTML5 Boiler Plate framework and is fully responsive with mobile-first attitude and weighs just under 60KB.
 
-Preview: http://design.themebin.com/iorange2
-
 ##Don't like Orange?
 
 I have 3 other flavors for you. Not everyone likes Orange. Since iOrange 1.0 was released in 2008, I've no idea why I chose Orange as primary color. Just make the following changes and you will love the color psychology. You will need to edit `main.css` and make changes to header, nav and footer elements.
-
-![ScreenShot](http://design.themebin.com/img/iorange_flavors.jpg)
 
 ### Turquoise:
 
