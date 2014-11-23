@@ -7,6 +7,8 @@ iOrange 2.0 is a free, simple and light-weight web template for your website and
 
 I have 3 other flavors for you. Not everyone likes Orange. Since iOrange 1.0 was released in 2008, I've no idea why I chose Orange as primary color. Just make the following changes and you will love the color psychology. You will need to edit `main.css` and make changes to header, nav and footer elements.
 
+![Screenshot](http://i.imgur.com/gggaaic.jpg)
+
 ### Turquoise:
 
     .header-container {background: #7DA7D9;}
