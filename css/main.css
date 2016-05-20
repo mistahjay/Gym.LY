@@ -67,15 +67,11 @@ textarea {
 	background: #444;
 }
 
-.header-container{
-    background: #f16529;
-	color: #494949;
-}
+.header-container {background: #7DA7D9;}
+#nav {background: #6697D2;}
 
-.footer-container { 
-	background: #444;
-    border-bottom : 2px solid #ec6a1c;
-}
+.footer-container 
+{border-bottom : 2px solid #6697D2;}
 
 .title {
     color: #fff;
